@@ -14,9 +14,6 @@ For changes before version 3.0, see ``HISTORY.rst``.
 - Add a check if database is present in ``.owner.ownerInfo``.
   (`#91 <https://github.com/zopefoundation/AccessControl/issues/91>`_).
 
-- Fix information disclosure through ``str.format_map``.
-  (CVE-2023-41050)
-
 
 4.1 (2019-09-02)
 ----------------
