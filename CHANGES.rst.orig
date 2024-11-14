@@ -9,9 +9,6 @@ For changes before version 3.0, see ``HISTORY.rst``.
 - Python 3: Allow iteration over the result of ``dict.{keys,values,items}``
   (`#89 <https://github.com/zopefoundation/AccessControl/issues/89>`_).
 
-- Fix information disclosure through ``str.format_map``.
-  (CVE-2023-41050)
-
 
 4.0 (2019-05-08)
 ----------------
