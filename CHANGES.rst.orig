@@ -20,9 +20,6 @@ For changes before version 3.0, see ``HISTORY.rst``.
 
 - Add support for Python 3.8
 
-- Fix information disclosure through ``str.format_map``.
-  (CVE-2023-41050)
-
 
 4.0b6 (2018-10-09)
 ------------------
