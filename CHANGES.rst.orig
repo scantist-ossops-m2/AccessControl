@@ -9,9 +9,6 @@ For changes before version 3.0, see ``HISTORY.rst``.
 - Fix a remote code execution issue by preventing access to
   ``string.Formatter`` from restricted code.
 
-- Fix information disclosure through ``str.format_map``.
-  (CVE-2023-41050)
-
 
 5.0 (2020-10-07)
 ----------------
