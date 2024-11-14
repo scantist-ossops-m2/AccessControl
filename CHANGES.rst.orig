@@ -11,9 +11,6 @@ For changes before version 3.0, see ``HISTORY.rst``.
 
 - Add preliminary support for Python 3.12a5.
 
-- Fix information disclosure through ``str.format_map``.
-  (CVE-2023-41050)
-
 
 6.0 (2023-01-12)
 ----------------
