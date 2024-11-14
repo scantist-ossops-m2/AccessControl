@@ -26,9 +26,6 @@ For changes before version 3.0, see ``HISTORY.rst``.
 - Although this version might run on Zope 4, it is no longer supported because
   of the dropped deprecation warnings.
 
-- Fix information disclosure through ``str.format_map``.
-  (CVE-2023-41050)
-
 
 4.2 (2020-04-20)
 ----------------
