@@ -8,9 +8,6 @@ For changes before version 3.0, see ``HISTORY.rst``.
 
 - Fix Appveyor configuration so tests can run and wheels build.
 
-- Fix information disclosure through ``str.format_map``.
-  (CVE-2023-41050)
-
 
 5.1 (2021-07-30)
 ----------------
