@@ -8,9 +8,6 @@ For changes before version 3.0, see ``HISTORY.rst``.
 
 - Add support for building arm64 wheels on macOS.
 
-- Fix information disclosure through ``str.format_map``.
-  (CVE-2023-41050)
-
 
 5.6 (2022-11-03)
 ----------------
