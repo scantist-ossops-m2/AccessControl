@@ -60,9 +60,6 @@ Changes since 3.0.12:
 - Remove duplicate guard against * imports.
   (`#60 <https://github.com/zopefoundation/AccessControl/issues/60>`_)
 
-- Fix information disclosure through ``str.format_map``.
-  (CVE-2023-41050)
-
 
 3.0.12 (2015-12-21)
 -------------------
